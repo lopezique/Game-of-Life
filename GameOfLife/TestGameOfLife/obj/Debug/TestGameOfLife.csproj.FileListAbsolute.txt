@@ -1,0 +1,8 @@
+C:\Users\lukas\Source\Repos\Game-of-Life2\GameOfLife\TestGameOfLife\bin\Debug\TestGameOfLife.dll
+C:\Users\lukas\Source\Repos\Game-of-Life2\GameOfLife\TestGameOfLife\bin\Debug\TestGameOfLife.pdb
+C:\Users\lukas\Source\Repos\Game-of-Life2\GameOfLife\TestGameOfLife\bin\Debug\GameOfLife.exe
+C:\Users\lukas\Source\Repos\Game-of-Life2\GameOfLife\TestGameOfLife\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\lukas\Source\Repos\Game-of-Life2\GameOfLife\TestGameOfLife\bin\Debug\GameOfLife.pdb
+C:\Users\lukas\Source\Repos\Game-of-Life2\GameOfLife\TestGameOfLife\obj\Debug\TestGameOfLife.csprojResolveAssemblyReference.cache
+C:\Users\lukas\Source\Repos\Game-of-Life2\GameOfLife\TestGameOfLife\obj\Debug\TestGameOfLife.dll
+C:\Users\lukas\Source\Repos\Game-of-Life2\GameOfLife\TestGameOfLife\obj\Debug\TestGameOfLife.pdb

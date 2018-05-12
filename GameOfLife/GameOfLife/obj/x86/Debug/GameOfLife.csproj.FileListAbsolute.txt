@@ -1,0 +1,4 @@
+C:\Users\lukas\Source\Repos\Game-of-Life2\GameOfLife\GameOfLife\bin\Debug\GameOfLife.exe
+C:\Users\lukas\Source\Repos\Game-of-Life2\GameOfLife\GameOfLife\bin\Debug\GameOfLife.pdb
+C:\Users\lukas\Source\Repos\Game-of-Life2\GameOfLife\GameOfLife\obj\x86\Debug\GameOfLife.exe
+C:\Users\lukas\Source\Repos\Game-of-Life2\GameOfLife\GameOfLife\obj\x86\Debug\GameOfLife.pdb

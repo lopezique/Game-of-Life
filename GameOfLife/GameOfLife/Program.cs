@@ -65,7 +65,7 @@ namespace GameOfLife
             int randomX, randomY;
 
             // 100 random cells
-            for (int i = 0; i < 100; i++)
+            for (int i = 0; i < 1000; i++)
             {
                 randomX = random.Next(-20, 20);
                 randomY = random.Next(-20, 20);
